@@ -1,4 +1,4 @@
-# 🚨 Road Accident Data Analysis Dashboard
+# 🚨 Road Accidents Data Analysis Dashboard
 
 ## 📝 Project Overview
 This dashboard provides insights into road accidents based on multiple factors such as **time, location, severity, weather, and road conditions**.  
