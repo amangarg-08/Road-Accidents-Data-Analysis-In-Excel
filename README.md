@@ -37,9 +37,9 @@ The dataset contains the following fields:
 ---
 
 ## 🎯 Key KPIs
-- 🚦 **Total Accidents:** 307,973  
-- ⚰️ **Total Casualties:** 417,883  
-- 💀 **Fatal Accidents %:** 1.7%  
+- **Total Accidents:** 307,973  
+- **Total Casualties:** 417,883  
+- **Fatal Accidents %:** 1.7%  
 
 ---
 
@@ -73,20 +73,20 @@ The dataset contains the following fields:
 ---
 
 ## 📝 Key Takeaways
-1. 🛣️ Focus safety improvements on single carriageways  
-2. 🌆 Urban areas & daylight hours see the most accidents → linked to traffic density  
-3. 🏍️ Motorcyclists disproportionately affected → stricter safety enforcement needed  
-4. 📊 Casualty trends are stable year-on-year → indicates structural issues  
-5. ☀️ Most accidents occur in normal/dry conditions → driver behavior & congestion are bigger risks  
+1. Focus safety improvements on single carriageways  
+2. Urban areas & daylight hours see the most accidents → linked to traffic density  
+3. Motorcyclists disproportionately affected → stricter safety enforcement needed  
+4. Casualty trends are stable year-on-year → indicates structural issues  
+5. Most accidents occur in normal/dry conditions → driver behavior & congestion are bigger risks  
 
 ---
 
 ## 🎨 Design & Theme
-- 🖤 **Background:** Navy Blue (#264653)  
-- 🔹 **Graph Panels:** Light Blue (#A8DADC)  
-- ❤️ **Highlight Numbers:** Crimson (#E63946)  
-- 🖊️ **Text:** Black (#000000)  
-- 🌟 **Accent Colors:** Amber (#F4A261), Teal (#2A9D8F)  
+- **Background:** Navy Blue (#264653)  
+- **Graph Panels:** Light Blue (#A8DADC)  
+- **Highlight Numbers:** Crimson (#E63946)  
+- **Text:** Black (#000000)  
+- **Accent Colors:** Amber (#F4A261), Teal (#2A9D8F)  
 
 ---
 
@@ -94,4 +94,3 @@ The dataset contains the following fields:
 
 ![Dashboard Preview](road_accidents_dashboard.png)
 
-✅ **Tip:** Keep `road_accidents_dashboard.png` in your repo to provide a visual preview of the dashboard.  
